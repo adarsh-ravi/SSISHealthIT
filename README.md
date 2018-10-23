@@ -1,0 +1,2 @@
+# SSISHealthIT
+ONC uses the SK&amp;A Office-based Provider Database to calculate the counts of medical doctors, doctors of osteopathy, nurse practitioners, and physician assistants at the state and count level from 2011 through 2013. These counts are grouped as a total, as well as segmented by each provider type and separately as counts of primary care providers. This package helps extract the data from the CSV file and send it to a normalized relational database.
